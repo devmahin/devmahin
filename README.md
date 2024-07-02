@@ -19,14 +19,14 @@ Sure, here's a concise "About Me" for a React developer:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
-
+- 🚶‍♂️ I’m looking - For Fresher frontend developer job.
 - 🔭 &nbsp; I'm currently working on  **React.js**
 - 🌱 &nbsp; I’m currently learning **node.js**; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
 - 📝 &nbsp; Checkout my [resume](https://docs.google.com/document/d/1pqX4yG4RELYfXzatZsl4Nu-OVh60w8wkKNdYZYYXWO4/edit?usp=sharing)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
-
+- 🤔 I’m trying - To solve code errors and explore new technologies.
 <br>
 
 ##
