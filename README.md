@@ -50,8 +50,4 @@ Sure, here's a concise "About Me" for a React developer:
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmahin&show_icons=true&locale=en&layout=compact" alt="devmahin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmahin&show_icons=true&locale=en" alt="devmahin" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmahin&" alt="devmahin" /></p>
