@@ -38,8 +38,17 @@ Sure, here's a concise "About Me" for a React developer:
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="html5" width="40" height="40" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com"></a>
 <br>
-
 ##
+
+
+
+### -  Current Stats & Language Used...
+
+| <a href="https://github.com/shafiqulislamsagor"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shafiqulislamsagor&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="shafiqulislamsagor's github stats" /></a> | <a href="https://github.com/shafiqulislamsagor"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiqulislamsagor&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmahin&show_icons=true&locale=en&layout=compact" alt="devmahin" /></p>
 
