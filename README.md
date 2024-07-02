@@ -36,10 +36,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="html5" width="40" height="40" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="html5" width="40" height="40" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="html5" width="40" height="40" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="src="src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="html5" width="40" height="40" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com"></a>
-
 
 <br>
 <br>
