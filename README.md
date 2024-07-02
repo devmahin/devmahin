@@ -30,7 +30,7 @@ Sure, here's a concise "About Me" for a React developer:
 <br>
 
 ##
-### 🔨 Languages and Tools:
+### ⚙️ Some Tool and Tech I use
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com"></a>
 
@@ -42,7 +42,7 @@ Sure, here's a concise "About Me" for a React developer:
 
 
 
-### -  Current Stats & Language Used...
+### - 🚀 Quick Stats
 
 | <a href="https://github.com/devmahin"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devmahin&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="devmahin's github stats" /></a> | <a href="https://github.com/devmahin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmahin&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
