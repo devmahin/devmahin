@@ -28,42 +28,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 
 <br>
-
-###
-
-<h2 align="left">Contact Me :</h2>
-
-
-<div align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="YOUR_TWITTER_URL" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-  </a>
-  <a href="YOUR_YOUTUBE_URL" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
-  </a>
-  <a href="YOUR_INSTAGRAM_URL" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <a href="YOUR_GMAIL_URL" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-  <a href="YOUR_WHATSAPP_URL" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-  </a>
-  <a href="https://www.facebook.com/lxoveiislam.mahin/?viewas=100000686899395" target="_blank">
-    <img src="" width="52" height="40" alt="facebook logo" />
-  </a>
-</div>
-
-
-###
-
 ##
-
-<br>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
