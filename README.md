@@ -1,7 +1,7 @@
 ![logo](https://github.com/devmahin/devmahin/blob/main/png_20231115_122749_0000.png)
 <h1 align="center">Hi 👋, I'm Mahin Howlader</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devmahin&label=Profile%20views&color=0e75b6&style=flat" alt="devmahin" /> </p>
+
 
 <a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
